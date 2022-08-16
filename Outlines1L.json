@@ -1,0 +1,2107 @@
+{
+    "year": "1L",
+    "subjects": [
+        {
+            "subject": "Contracts",
+            "mnemonic": "Failure To Contract Deserves Better Review",
+            "elements": [
+                {
+                    "element": "I. Formation",
+                    "elements": [
+                        {
+                            "element": "A. Governing Law"
+                        },
+                        {
+                            "element": "B. Valid Contract",
+                            "elements": [
+                                {
+                                    "element": "1. Mutual Assent",
+                                    "elements": [
+                                        {
+                                            "element": "a.  Offer",
+                                            "elements": [
+                                                {
+                                                    "element": "(1) Definite Terms (Q-Tips)"
+                                                },
+                                                {
+                                                    "element": "(2) Termination"
+                                                },
+                                                {
+                                                    "element": "(3) Revocation"
+                                                },
+                                                {
+                                                    "element": "(4) Rejection"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "element": "b. Acceptance"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "element": "2. Consideration"
+                                }
+                            ]
+                        },
+                        {
+                            "element": "C. Defenses to Formation (Pammi said fu)",
+                            "elements": [
+                                {
+                                    "element": "1. Parol Evidence Rule"
+                                },
+                                {
+                                    "element": "2. Adhesion Contracts"
+                                },
+                                {
+                                    "element": "3. Mistake"
+                                },
+                                {
+                                    "element": "4. Misrepresentation (Neg)"
+                                },
+                                {
+                                    "element": "5. Incapacity (Legal/Mental)"
+                                },
+                                {
+                                    "element": "6. Statute of Frauds"
+                                },
+                                {
+                                    "element": "7. Ambiguity"
+                                },
+                                {
+                                    "element": "8. Illegality"
+                                },
+                                {
+                                    "element": "9. Duress"
+                                },
+                                {
+                                    "element": "10. Fraud"
+                                },
+                                {
+                                    "element": "11. Unconscionability"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "element": "II. Third Party Rights",
+                    "elements": [
+                        {
+                            "element": "A. Third Party Beneficiary (Does Public Intercourse Cause VD?)",
+                            "elements": [
+                                {
+                                    "element": "1. Define"
+                                },
+                                {
+                                    "element": "2. Privity"
+                                },
+                                {
+                                    "element": "3. Intent to Benefit"
+                                },
+                                {
+                                    "element": "4. Classification"
+                                },
+                                {
+                                    "element": "5. Vesting"
+                                },
+                                {
+                                    "element": "6. Divide Lawsuits if Necessary"
+                                }
+                            ]
+                        },
+                        {
+                            "element": "B. Assignment"
+                        },
+                        {
+                            "element": "C. Delegation"
+                        }
+                    ]
+                },
+                {
+                    "element": "III. Conditions to Performance",
+                    "elements": [
+                        {
+                            "element": "A. Covenant/Promise v. Condition"
+                        },
+                        {
+                            "element": "B. Type",
+                            "elements": [
+                                {
+                                    "element": "1. Precedent"
+                                },
+                                {
+                                    "element": "2. Concurrent"
+                                },
+                                {
+                                    "element": "3. Subsequent"
+                                },
+                                {
+                                    "element": "4. Express"
+                                },
+                                {
+                                    "element": "5. Implied",
+                                    "elements": [
+                                        {
+                                            "element": "a. Implied in Fact"
+                                        },
+                                        {
+                                            "element": "b. Implied in Law"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "element": "C. Were Plaintiff's Conditions Satisfied?",
+                            "elements": [
+                                {
+                                    "element": "1. Substantial Performance (Constructive)"
+                                },
+                                {
+                                    "element": "2. Divisibility"
+                                }
+                            ]
+                        },
+                        {
+                            "element": "D. Were Plaintiff's Conditions Excused?",
+                            "elements": [
+                                {
+                                    "element": "1. Waiver"
+                                },
+                                {
+                                    "element": "2. Anticipatory Repudiation"
+                                },
+                                {
+                                    "element": "3. Prevention"
+                                },
+                                {
+                                    "element": "4. Impossibility of Performance"
+                                },
+                                {
+                                    "element": "5. Voluntary Disablement"
+                                },
+                                {
+                                    "element": "6. Estoppel"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "element": "IV. Discharge of Defendant's Duty to Perform",
+                    "elements": [
+                        {
+                            "element": "A. Merger"
+                        },
+                        {
+                            "element": "B. Substitute Contract"
+                        },
+                        {
+                            "element": "C. Modification"
+                        },
+                        {
+                            "element": "D. Amendment and Restatement of Contract"
+                        },
+                        {
+                            "element": "E. Novation"
+                        },
+                        {
+                            "element": "F. Accord and Satisfaction"
+                        },
+                        {
+                            "element": "G. Rescission (mutual)"
+                        },
+                        {
+                            "element": "H. Release"
+                        },
+                        {
+                            "element": "I. Waiver"
+                        },
+                        {
+                            "element": "J. Condition Subsequent"
+                        },
+                        {
+                            "element": "K. Impossibility of Performance"
+                        },
+                        {
+                            "element": "L. Frustration of Purpose"
+                        },
+                        {
+                            "element": "M. Commercial or Economic Impracticability"
+                        },
+                        {
+                            "element": "N. Supervening Illegality"
+                        },
+                        {
+                            "element": "O. Failure of Consideration"
+                        },
+                        {
+                            "element": "P. Defenses to Formation"
+                        }
+                    ]
+                },
+                {
+                    "element": "V. Breach",
+                    "elements": [
+                        {
+                            "element": "A. Major"
+                        },
+                        {
+                            "element": "B. Minor"
+                        }
+                    ]
+                },
+                {
+                    "element": "VI. Remedies",
+                    "elements": [
+                        {
+                            "element": "A. Legal vs. Equitable Remedies",
+                            "mnemonic": "Lively Cats Find Mice Darn Nice"
+                        },
+                        {
+                            "element": "B. Damages",
+                            "elements": [
+                                {
+                                    "element": "1. General Damages"
+                                },
+                                {
+                                    "element": "2. Special Damages"
+                                },
+                                {
+                                    "element": "3. Compensatory Damages",
+                                    "elements": [
+                                        {
+                                            "element": "a. Expectation Damages"
+                                        },
+                                        {
+                                            "element": "b. Reliance Damages"
+                                        },
+                                        {
+                                            "element": "c. Restitution Damages"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "element": "4. Liquidated Damages"
+                                },
+                                {
+                                    "element": "5. Punitive Damages (NOT)",
+                                    "elements": [
+                                        {
+                                            "element": "a. Exceptions"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "element": "6. Nominal Damages"
+                                },
+                                {
+                                    "element": "7. Avoidable Consequence Rule"
+                                },
+                                {
+                                    "element": "8. Collateral Source Rule"
+                                }
+                            ]
+                        },
+                        {
+                            "element": "C. Quasi- Contract"
+                        },
+                        {
+                            "element": "D. Rescission"
+                        },
+                        {
+                            "element": "E. Restitution"
+                        },
+                        {
+                            "element": "F. Reformation"
+                        },
+                        {
+                            "element": "G. Injunction",
+                            "elements": [
+                                {
+                                    "element": "1. Specific Performance",
+                                    "mnemonic": "Charles Atlas Earns Much Cash Delivering Elephants"
+                                }
+                            ]
+                        },
+                        {
+                            "element": "H. UCC Remedies for Buyer and Seller"
+                        }
+                    ]
+                }
+            ],
+            "blanks": [
+                {
+                    "mnemonic": "mnemonic: _____________________________________"
+                },
+                {
+                    "element": "I. ____________________________________________",
+                    "elements": [
+                        {
+                            "element": "A. _________________________________________"
+                        },
+                        {
+                            "element": "B. _________________________________________",
+                            "elements": [
+                                {
+                                    "element": "1. ______________________________________",
+                                    "elements": [
+                                        {
+                                            "element": "a. ___________________________________",
+                                            "elements": [
+                                                {
+                                                    "element": "(1) ________________________________"
+                                                },
+                                                {
+                                                    "element": "(2) ________________________________"
+                                                },
+                                                {
+                                                    "element": "(3) ________________________________"
+                                                },
+                                                {
+                                                    "element": "(4) ________________________________"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "element": "b. ___________________________________"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "element": "2. ______________________________________"
+                                }
+                            ]
+                        },
+                        {
+                            "element": "C. _________________________________________",
+                            "elements": [
+                                {
+                                    "element": "1. ______________________________________"
+                                },
+                                {
+                                    "element": "2. ______________________________________"
+                                },
+                                {
+                                    "element": "3. ______________________________________"
+                                },
+                                {
+                                    "element": "4. ______________________________________"
+                                },
+                                {
+                                    "element": "5. ______________________________________"
+                                },
+                                {
+                                    "element": "6. ______________________________________"
+                                },
+                                {
+                                    "element": "7. ______________________________________"
+                                },
+                                {
+                                    "element": "8. ______________________________________"
+                                },
+                                {
+                                    "element": "9. ______________________________________"
+                                },
+                                {
+                                    "element": "10. ______________________________________"
+                                },
+                                {
+                                    "element": "11. ______________________________________"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "element": "II. ____________________________________________",
+                    "elements": [
+                        {
+                            "element": "A. _________________________________________",
+                            "mnemonic": "mnemonic: _______________________________",
+                            "elements": [
+                                {
+                                    "element": "1. ______________________________________"
+                                },
+                                {
+                                    "element": "2. ______________________________________"
+                                },
+                                {
+                                    "element": "3. ______________________________________"
+                                },
+                                {
+                                    "element": "4. ______________________________________"
+                                },
+                                {
+                                    "element": "5. ______________________________________"
+                                },
+                                {
+                                    "element": "6. ______________________________________"
+                                }
+                            ]
+                        },
+                        {
+                            "element": "B. _________________________________________"
+                        },
+                        {
+                            "element": "C. _________________________________________"
+                        }
+                    ]
+                },
+                {
+                    "element": "III. _________________________________________",
+                    "elements": [
+                        {
+                            "element": "A. _________________________________________"
+                        },
+                        {
+                            "element": "B. _________________________________________",
+                            "elements": [
+                                {
+                                    "element": "1. ______________________________________"
+                                },
+                                {
+                                    "element": "2. ______________________________________"
+                                },
+                                {
+                                    "element": "3. ______________________________________"
+                                },
+                                {
+                                    "element": "4. ______________________________________"
+                                },
+                                {
+                                    "element": "5. ______________________________________",
+                                    "elements": [
+                                        {
+                                            "element": "a. ___________________________________"
+                                        },
+                                        {
+                                            "element": "b. ___________________________________"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "element": "C. _________________________________________",
+                            "elements": [
+                                {
+                                    "element": "1. ______________________________________"
+                                },
+                                {
+                                    "element": "2. ______________________________________"
+                                }
+                            ]
+                        },
+                        {
+                            "element": "D. _________________________________________",
+                            "elements": [
+                                {
+                                    "element": "1. ______________________________________"
+                                },
+                                {
+                                    "element": "2. ______________________________________"
+                                },
+                                {
+                                    "element": "3. ______________________________________"
+                                },
+                                {
+                                    "element": "4. ______________________________________"
+                                },
+                                {
+                                    "element": "5. ______________________________________"
+                                },
+                                {
+                                    "element": "6. ______________________________________"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "element": "IV. __________________________________________",
+                    "elements": [
+                        {
+                            "element": "A. _______________________________________"
+                        },
+                        {
+                            "element": "B. _______________________________________"
+                        },
+                        {
+                            "element": "C. _______________________________________"
+                        },
+                        {
+                            "element": "D. _______________________________________"
+                        },
+                        {
+                            "element": "E. _______________________________________"
+                        },
+                        {
+                            "element": "F. _______________________________________"
+                        },
+                        {
+                            "element": "G. _______________________________________"
+                        },
+                        {
+                            "element": "H. _______________________________________"
+                        },
+                        {
+                            "element": "I. _______________________________________"
+                        },
+                        {
+                            "element": "J. _______________________________________"
+                        },
+                        {
+                            "element": "K. _______________________________________"
+                        },
+                        {
+                            "element": "L. _______________________________________"
+                        },
+                        {
+                            "element": "M. _______________________________________"
+                        },
+                        {
+                            "element": "N. _______________________________________"
+                        },
+                        {
+                            "element": "O. _______________________________________"
+                        },
+                        {
+                            "element": "P. _______________________________________"
+                        }
+                    ]
+                },
+                {
+                    "element": "V. __________________________________________",
+                    "elements": [
+                        {
+                            "element": "A. _______________________________________"
+                        },
+                        {
+                            "element": "B. _______________________________________"
+                        }
+                    ]
+                },
+                {
+                    "element": "VI. __________________________________________",
+                    "elements": [
+                        {
+                            "element": "A. _______________________________________",
+                            "mnemonic": "mnemonic: _____________________________"
+                        },
+                        {
+                            "element": "B. _______________________________________",
+                            "elements": [
+                                {
+                                    "element": "1. ___________________________________"
+                                },
+                                {
+                                    "element": "2. ___________________________________"
+                                },
+                                {
+                                    "element": "3. ___________________________________",
+                                    "elements": [
+                                        {
+                                            "element": "a. _________________________________"
+                                        },
+                                        {
+                                            "element": "b. _________________________________"
+                                        },
+                                        {
+                                            "element": "c. _________________________________"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "element": "4. ___________________________________"
+                                },
+                                {
+                                    "element": "5. ___________________________________",
+                                    "elements": [
+                                        {
+                                            "element": "a. _________________________________"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "element": "6. ___________________________________"
+                                },
+                                {
+                                    "element": "7. ___________________________________"
+                                },
+                                {
+                                    "element": "8. ___________________________________"
+                                }
+                            ]
+                        },
+                        {
+                            "element": "C. _______________________________________"
+                        },
+                        {
+                            "element": "D. _______________________________________"
+                        },
+                        {
+                            "element": "E. _______________________________________"
+                        },
+                        {
+                            "element": "F. _______________________________________"
+                        },
+                        {
+                            "element": "G. _______________________________________",
+                            "elements": [
+                                {
+                                    "element": "1. ___________________________________",
+                                    "mnemonic": "mnemonic: __________________________"
+                                }
+                            ]
+                        },
+                        {
+                            "element": "H. _______________________________________"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "subject": "Crimes",
+            "mnemonic": "Felons in Prison Habitually Propose Planning Murderous Deeds",
+            "elements": [
+                {
+                    "element": "I. Formation",
+                    "elements": [
+                        {
+                            "element": "A. Actus Reus / Mens Rea / Concurrence"
+                        },
+                        {
+                            "element": "B. Accomplice Liability",
+                            "elements": [
+                                {
+                                    "element": "1. Intent"
+                                },
+                                {
+                                    "element": "2. Knowledge"
+                                },
+                                {
+                                    "element": "3. Active Assistance"
+                                }
+                            ]
+                        },
+                        {
+                            "element": "C. Vicarious Liability"
+                        }
+                    ]
+                },
+                {
+                    "element": "II. Inchoate Crimes (SAC)",
+                    "elements": [
+                        {
+                            "element": "A. Solicitation"
+                        },
+                        {
+                            "element": "B. Attempt"
+                        },
+                        {
+                            "element": "C. Conspiracy"
+                        }
+                    ]
+                },
+                {
+                    "element": "III. Crimes against the Person",
+                    "elements": [
+                        {
+                            "element": "A. Homicide",
+                            "elements": [
+                                {
+                                    "element": "1. IRAC Homicide"
+                                },
+                                {
+                                    "element": "2. Causation",
+                                    "elements": [
+                                        {
+                                            "element": "a. Actual Cause"
+                                        },
+                                        {
+                                            "element": "b. Proximate Cause"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "element": "3. Murder / Malice?",
+                                    "elements": [
+                                        {
+                                            "element": "a. If YES, there is a murder:",
+                                            "elements": [
+                                                {
+                                                    "element": "(1) What Degree?",
+                                                    "elements": [
+                                                        {
+                                                            "element": "(a) First Degree"
+                                                        },
+                                                        {
+                                                            "element": "(b) Second Degree"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "element": "(2) Justifications"
+                                                },
+                                                {
+                                                    "element": "(3) Excuses"
+                                                },
+                                                {
+                                                    "element": "(4) Mitigation to Voluntary Manslaughter"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "element": "b. If NO, there is no murder:",
+                                            "elements": [
+                                                {
+                                                    "element": "(1) Involuntary Manslaughter"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "element": "B. Non-Homicide",
+                            "elements": [
+                                {
+                                    "element": "1. Assault"
+                                },
+                                {
+                                    "element": "2. Battery"
+                                },
+                                {
+                                    "element": "3. False Imprisonment"
+                                },
+                                {
+                                    "element": "4. Kidnapping"
+                                },
+                                {
+                                    "element": "5. Mayhem"
+                                },
+                                {
+                                    "element": "6. Rape"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "element": "IV. Crimes against Habitation",
+                    "elements": [
+                        {
+                            "element": "A. Burglary"
+                        },
+                        {
+                            "element": "B. Arson"
+                        }
+                    ]
+                },
+                {
+                    "element": "V. Crimes against Property",
+                    "elements": [
+                        {
+                            "element": "A. Larceny & Larceny by Trick"
+                        },
+                        {
+                            "element": "B. False Pretenses"
+                        },
+                        {
+                            "element": "C. Embezzlement"
+                        },
+                        {
+                            "element": "D. Robbery"
+                        },
+                        {
+                            "element": "E. Receiving Stolen Property"
+                        }
+                    ]
+                },
+                {
+                    "element": "VI. Crimes against Property Interests",
+                    "elements": [
+                        {
+                            "element": "A. Forgery"
+                        },
+                        {
+                            "element": "B. Uttering"
+                        },
+                        {
+                            "element": "C. Extortion / Blackmail"
+                        }
+                    ]
+                },
+                {
+                    "element": "VII. Miscellaneous Crimes",
+                    "elements": [
+                        {
+                            "element": "A. Misprision"
+                        },
+                        {
+                            "element": "B. Compounding"
+                        },
+                        {
+                            "element": "C. Riot"
+                        },
+                        {
+                            "element": "D. Rout"
+                        },
+                        {
+                            "element": "E.   Unlawful Assembly"
+                        },
+                        {
+                            "element": "F.   Malicious Mischief"
+                        },
+                        {
+                            "element": "G.   Breach of Peace"
+                        }
+                    ]
+                },
+                {
+                    "element": "VIII. Defenses: Justifications, and Excuses",
+                    "elements": [
+                        {
+                            "element": "A. Justification Defenses (crime committed, but allowed)",
+                            "elements": [
+                                {
+                                    "element": "1. Self Defense"
+                                },
+                                {
+                                    "element": "2. Defense of Others"
+                                },
+                                {
+                                    "element": "3. Defense of Property"
+                                },
+                                {
+                                    "element": "4. Prevention of Crime"
+                                },
+                                {
+                                    "element": "5. Legal Authority",
+                                    "elements": [
+                                        {
+                                            "element": "a. Domestic"
+                                        },
+                                        {
+                                            "element": "b. Public"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "element": "6. Necessity"
+                                },
+                                {
+                                    "element": "7. Consent"
+                                }
+                            ]
+                        },
+                        {
+                            "element": "B. Defenses: Excuses (no crime due to no mens rea)",
+                            "elements": [
+                                {
+                                    "element": "1. Mistake of Law"
+                                },
+                                {
+                                    "element": "2. Mistake of Fact"
+                                },
+                                {
+                                    "element": "3. Duress"
+                                },
+                                {
+                                    "element": "4. Entrapment"
+                                },
+                                {
+                                    "element": "5. Infancy"
+                                },
+                                {
+                                    "element": "6. Intoxication",
+                                    "elements": [
+                                        {
+                                            "element": "a. Voluntary"
+                                        },
+                                        {
+                                            "element": "b. Involuntary"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "element": "7. Insanity (5 Rules)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "blanks": [
+                {
+                    "mnemonic": "mnemonic: _____________________________________________"
+                },
+                {
+                    "element": "I. ___________________________________",
+                    "elements": [
+                        {
+                            "element": "A. ______________________________"
+                        },
+                        {
+                            "element": "B. ______________________________",
+                            "elements": [
+                                {
+                                    "element": "1. ___________________________"
+                                },
+                                {
+                                    "element": "2. ___________________________"
+                                },
+                                {
+                                    "element": "3. ___________________________"
+                                }
+                            ]
+                        },
+                        {
+                            "element": "C. ______________________________"
+                        }
+                    ]
+                },
+                {
+                    "element": "II. _________________________________",
+                    "elements": [
+                        {
+                            "element": "A. ______________________________"
+                        },
+                        {
+                            "element": "B. ______________________________"
+                        },
+                        {
+                            "element": "C. ______________________________"
+                        }
+                    ]
+                },
+                {
+                    "element": "III. __________________________________",
+                    "elements": [
+                        {
+                            "element": "A. ______________________________",
+                            "elements": [
+                                {
+                                    "element": "1. ___________________________"
+                                },
+                                {
+                                    "element": "2. ___________________________",
+                                    "elements": [
+                                        {
+                                            "element": "a. ________________________"
+                                        },
+                                        {
+                                            "element": "b. ________________________"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "element": "3. ___________________________",
+                                    "elements": [
+                                        {
+                                            "element": "a. ________________________",
+                                            "elements": [
+                                                {
+                                                    "element": "(1) _____________________",
+                                                    "elements": [
+                                                        {
+                                                            "element": "(a) __________________"
+                                                        },
+                                                        {
+                                                            "element": "(b) __________________"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "element": "(2) _____________________"
+                                                },
+                                                {
+                                                    "element": "(3) _____________________"
+                                                },
+                                                {
+                                                    "element": "(4) _______________________"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "element": "b. ________________________",
+                                            "elements": [
+                                                {
+                                                    "element": "(1) _____________________"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "element": "B. ______________________________",
+                            "elements": [
+                                {
+                                    "element": "1. ___________________________"
+                                },
+                                {
+                                    "element": "2. ___________________________"
+                                },
+                                {
+                                    "element": "3. ___________________________"
+                                },
+                                {
+                                    "element": "4. ___________________________"
+                                },
+                                {
+                                    "element": "5. ___________________________"
+                                },
+                                {
+                                    "element": "6. ___________________________"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "element": "IV. __________________________________",
+                    "elements": [
+                        {
+                            "element": "A. ______________________________"
+                        },
+                        {
+                            "element": "B. ______________________________"
+                        }
+                    ]
+                },
+                {
+                    "element": "V. __________________________________",
+                    "elements": [
+                        {
+                            "element": "A. ______________________________"
+                        },
+                        {
+                            "element": "B. ______________________________"
+                        },
+                        {
+                            "element": "C. ______________________________"
+                        },
+                        {
+                            "element": "D. ______________________________"
+                        },
+                        {
+                            "element": "E. ______________________________"
+                        }
+                    ]
+                },
+                {
+                    "element": "VI. __________________________________",
+                    "elements": [
+                        {
+                            "element": "A. ______________________________"
+                        },
+                        {
+                            "element": "B. ______________________________"
+                        },
+                        {
+                            "element": "C. ______________________________"
+                        }
+                    ]
+                },
+                {
+                    "element": "VII. _________________________________",
+                    "elements": [
+                        {
+                            "element": "A. ______________"
+                        },
+                        {
+                            "element": "B. ______________"
+                        },
+                        {
+                            "element": "C. ______________"
+                        },
+                        {
+                            "element": "D. ______________"
+                        },
+                        {
+                            "element": "E. ______________"
+                        },
+                        {
+                            "element": "F. ______________"
+                        },
+                        {
+                            "element": "G. ______________"
+                        }
+                    ]
+                },
+                {
+                    "element": "VIII. ________________________________",
+                    "elements": [
+                        {
+                            "element": "A. ___________________________",
+                            "elements": [
+                                {
+                                    "element": "1. ___________________________"
+                                },
+                                {
+                                    "element": "2. ___________________________"
+                                },
+                                {
+                                    "element": "3. ___________________________"
+                                },
+                                {
+                                    "element": "4. ___________________________"
+                                },
+                                {
+                                    "element": "5. ___________________________",
+                                    "elements": [
+                                        {
+                                            "element": "a. ________________________"
+                                        },
+                                        {
+                                            "element": "b. ________________________"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "element": "6. ___________________________"
+                                },
+                                {
+                                    "element": "7. ___________________________"
+                                }
+                            ]
+                        },
+                        {
+                            "element": "B. ________________________",
+                            "elements": [
+                                {
+                                    "element": "1. ___________________________"
+                                },
+                                {
+                                    "element": "2. ___________________________"
+                                },
+                                {
+                                    "element": "3. ___________________________"
+                                },
+                                {
+                                    "element": "4. ___________________________"
+                                },
+                                {
+                                    "element": "5. ___________________________"
+                                },
+                                {
+                                    "element": "6. ___________________________",
+                                    "elements": [
+                                        {
+                                            "element": "a. ________________________"
+                                        },
+                                        {
+                                            "element": "b. ________________________"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "element": "7. ___________________________"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "subject": "Torts",
+            "mnemonic": "In Nevada, My Sister Very Profoundly Calls Drunks \"Idiots\"",
+            "elements": [
+                {
+                    "element": "I. Intentional Torts",
+                    "elements": [
+                        {
+                            "element": "A. Intentional Torts",
+                            "elements": [
+                                {
+                                    "element": "1. Assault"
+                                },
+                                {
+                                    "element": "2. Battery"
+                                },
+                                {
+                                    "element": "3. False Imprisonment"
+                                },
+                                {
+                                    "element": "4. Intentional Infliction of Mental Distress"
+                                },
+                                {
+                                    "element": "5. Trespass to Land"
+                                },
+                                {
+                                    "element": "6. Trespass to Chattel"
+                                },
+                                {
+                                    "element": "7. Conversion"
+                                }
+                            ]
+                        },
+                        {
+                            "element": "B. Defenses to Intentional Torts",
+                            "elements": [
+                                {
+                                    "element": "1. Consent"
+                                },
+                                {
+                                    "element": "2. Self Defense"
+                                },
+                                {
+                                    "element": "3. Defense of Others",
+                                    "elements": [
+                                        {
+                                            "element": "a. Step-In-Shoes Jurisdictions"
+                                        },
+                                        {
+                                            "element": "b. Reasonable Appearances Jurisdictions"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "element": "4. Defense of Property"
+                                },
+                                {
+                                    "element": "5. Prevention of Crime"
+                                },
+                                {
+                                    "element": "6. Recapture of Property",
+                                    "elements": [
+                                        {
+                                            "element": "a. Re-entry Upon Land"
+                                        },
+                                        {
+                                            "element": "b. Recapture of Chattel"
+                                        },
+                                        {
+                                            "element": "c. Shopkeeper's Rule"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "element": "7. Legal Authority"
+                                },
+                                {
+                                    "element": "8. Necessity",
+                                    "elements": [
+                                        {
+                                            "element": "a. Public Necessity"
+                                        },
+                                        {
+                                            "element": "b. Private Necessity"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "element": "II. Negligence",
+                    "elements": [
+                        {
+                            "element": "A. Duty",
+                            "elements": [
+                                {
+                                    "element": "1. General"
+                                },
+                                {
+                                    "element": "2. Special",
+                                    "elements": [
+                                        {
+                                            "element": "a. Negligence Per Se"
+                                        },
+                                        {
+                                            "element": "b. Drivers of Vehicles"
+                                        },
+                                        {
+                                            "element": "c. Omission"
+                                        },
+                                        {
+                                            "element": "d. Good Samaritans / Rescuers"
+                                        },
+                                        {
+                                            "element": "e. Negligent Supervision"
+                                        },
+                                        {
+                                            "element": "f. Professionals"
+                                        },
+                                        {
+                                            "element": "g. Land Occupiers"
+                                        },
+                                        {
+                                            "element": "h. Lessors & Lessees"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "element": "B. Breach",
+                            "elements": [
+                                {
+                                    "element": "1. Direct / Circumstantial"
+                                },
+                                {
+                                    "element": "2. Res Ipsa Loquitur"
+                                }
+                            ]
+                        },
+                        {
+                            "element": "C. Causation",
+                            "elements": [
+                                {
+                                    "element": "1. Actual",
+                                    "elements": [
+                                        {
+                                            "element": "a. \"But For\""
+                                        },
+                                        {
+                                            "element": "b. Substantial Factor"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "element": "2. Proximate",
+                                    "elements": [
+                                        {
+                                            "element": "a. Watch the time line!"
+                                        },
+                                        {
+                                            "element": "b. Direct"
+                                        },
+                                        {
+                                            "element": "c. Intervening Acts",
+                                            "elements": [
+                                                {
+                                                    "element": "(1) Independent"
+                                                },
+                                                {
+                                                    "element": "(2) Dependent"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "element": "D. Damages",
+                            "elements": [
+                                {
+                                    "element": "1. Physical Harm Needed"
+                                },
+                                {
+                                    "element": "2. NIED"
+                                }
+                            ]
+                        },
+                        {
+                            "element": "E. Defenses",
+                            "elements": [
+                                {
+                                    "element": "1. Contributory Negligence"
+                                },
+                                {
+                                    "element": "2. Comparative Negligence"
+                                },
+                                {
+                                    "element": "3. Last Clear Chance"
+                                },
+                                {
+                                    "element": "4. Assumption of the Risk"
+                                }
+                            ]
+                        },
+                        {
+                            "element": "F. Multiple Defendant Issues",
+                            "elements": [
+                                {
+                                    "element": "1. Joint, Concurrent, Successive"
+                                },
+                                {
+                                    "element": "2. Joint & Several Liability"
+                                },
+                                {
+                                    "element": "3. Contribution & Indemnity"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "element": "III.  Miscellaneous Tort Concepts",
+                    "elements": [
+                        {
+                            "element": "A. Wrongful Death"
+                        },
+                        {
+                            "element": "B. Survival Statutes"
+                        },
+                        {
+                            "element": "C. Statute of Limitations"
+                        },
+                        {
+                            "element": "D. Immunities",
+                            "elements": [
+                                {
+                                    "element": "1. Husband/Wife"
+                                },
+                                {
+                                    "element": "2. Parent/Child"
+                                },
+                                {
+                                    "element": "3. Charities"
+                                },
+                                {
+                                    "element": "4. Government"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "element": "IV. Strict Liability",
+                    "elements": [
+                        {
+                            "element": "A. Animals"
+                        },
+                        {
+                            "element": "B. Abnormally Dangerous Activities"
+                        }
+                    ]
+                },
+                {
+                    "element": "V. Vicarious Liability",
+                    "elements": [
+                        {
+                            "element": "A. Employment Relationship - Respondeat Superior",
+                            "elements": [
+                                {
+                                    "element": "1. Scope of employment"
+                                },
+                                {
+                                    "element": "2. To / From Home"
+                                },
+                                {
+                                    "element": "3. Frolic and Detour"
+                                }
+                            ]
+                        },
+                        {
+                            "element": "B. Independent Contractors"
+                        },
+                        {
+                            "element": "C. Joint Enterprise"
+                        },
+                        {
+                            "element": "D. Bailor / Bailee"
+                        },
+                        {
+                            "element": "E. Vehicle Ownership",
+                            "elements": [
+                                {
+                                    "element": "1. Family Purpose Doctrine"
+                                },
+                                {
+                                    "element": "2. Consent Statutes"
+                                }
+                            ]
+                        },
+                        {
+                            "element": "F. Parent / Child"
+                        }
+                    ]
+                },
+                {
+                    "element": "VI. Products Liability",
+                    "elements": [
+                        {
+                            "element": "A. General Rule"
+                        },
+                        {
+                            "element": "B. Defect Type"
+                        },
+                        {
+                            "element": "C. Theory",
+                            "elements": [
+                                {
+                                    "element": "1. Intentional (rare)"
+                                },
+                                {
+                                    "element": "2. Negligence"
+                                },
+                                {
+                                    "element": "3. Breach of Warranty"
+                                },
+                                {
+                                    "element": "4. Strict Liability in Tort"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "element": "VII. Crossovers",
+                    "elements": [
+                        {
+                            "element": "A. Misrepresentation",
+                            "elements": [
+                                {
+                                    "element": "1. Intentional: Deceit/Fraud"
+                                },
+                                {
+                                    "element": "2. Negligent"
+                                },
+                                {
+                                    "element": "3. Damages"
+                                }
+                            ]
+                        },
+                        {
+                            "element": "B. Nuisance",
+                            "elements": [
+                                {
+                                    "element": "1. Private Nuisance"
+                                },
+                                {
+                                    "element": "2. Public Nuisance"
+                                }
+                            ]
+                        },
+                        {
+                            "element": "C. Wrongful Litigation",
+                            "elements": [
+                                {
+                                    "element": "1. Malicious Prosecution"
+                                },
+                                {
+                                    "element": "2. Abuse of Process"
+                                }
+                            ]
+                        },
+                        {
+                            "element": "D. Business Torts",
+                            "elements": [
+                                {
+                                    "element": "1. Disparagement"
+                                },
+                                {
+                                    "element": "2. Interference with Economic Relationship"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "element": "VIII. Defamation",
+                    "elements": [
+                        {
+                            "element": "A. General Rule"
+                        },
+                        {
+                            "element": "B. Slander / Slander per se"
+                        },
+                        {
+                            "element": "C. Libel / libel per se"
+                        },
+                        {
+                            "element": "D. Damages"
+                        },
+                        {
+                            "element": "E. Privileges"
+                        }
+                    ]
+                },
+                {
+                    "element": "IX. Invasion of Privacy",
+                    "elements": [
+                        {
+                            "element": "A. Appropriation of Likeness"
+                        },
+                        {
+                            "element": "B. Intrusion upon Seclusion"
+                        },
+                        {
+                            "element": "C. False Light"
+                        },
+                        {
+                            "element": "D. Public Disclosure of Private Facts"
+                        }
+                    ]
+                },
+                {
+                    "element": "X. Tort Damages",
+                    "elements": [
+                        {
+                            "element": "A. Special"
+                        },
+                        {
+                            "element": "B. General"
+                        },
+                        {
+                            "element": "C. Punitive"
+                        },
+                        {
+                            "element": "D. Avoidable Consequence Rule"
+                        },
+                        {
+                            "element": "E. Collateral Source Rule"
+                        }
+                    ]
+                }
+            ],
+            "blanks": [
+                {
+                    "mnemonic": "mnemonic: _______________________________________________"
+                },
+                {
+                    "element": "I. ________________________",
+                    "elements": [
+                        {
+                            "element": "A. _____________________",
+                            "elements": [
+                                {
+                                    "element": "1. ___________________"
+                                },
+                                {
+                                    "element": "2. ___________________"
+                                },
+                                {
+                                    "element": "3. ___________________"
+                                },
+                                {
+                                    "element": "4. ___________________"
+                                },
+                                {
+                                    "element": "5. ___________________"
+                                },
+                                {
+                                    "element": "6. ___________________"
+                                },
+                                {
+                                    "element": "7. ___________________"
+                                }
+                            ]
+                        },
+                        {
+                            "element": "B. _________________________",
+                            "elements": [
+                                {
+                                    "element": "1. ___________________"
+                                },
+                                {
+                                    "element": "2. ___________________"
+                                },
+                                {
+                                    "element": "3. ___________________",
+                                    "elements": [
+                                        {
+                                            "element": "a. __________________________________"
+                                        },
+                                        {
+                                            "element": "b. __________________________________"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "element": "4. ___________________"
+                                },
+                                {
+                                    "element": "5. ___________________"
+                                },
+                                {
+                                    "element": "6. ___________________",
+                                    "elements": [
+                                        {
+                                            "element": "a. _________________"
+                                        },
+                                        {
+                                            "element": "b. _________________"
+                                        },
+                                        {
+                                            "element": "c. _________________"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "element": "7. ___________________"
+                                },
+                                {
+                                    "element": "8. ___________________",
+                                    "elements": [
+                                        {
+                                            "element": "a. _________________"
+                                        },
+                                        {
+                                            "element": "b. _________________"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "element": "II. ____________________________",
+                    "elements": [
+                        {
+                            "element": "A. ___________________________",
+                            "elements": [
+                                {
+                                    "element": "1. _________________________"
+                                },
+                                {
+                                    "element": "2. _________________________",
+                                    "elements": [
+                                        {
+                                            "element": "a. _______________________"
+                                        },
+                                        {
+                                            "element": "b. _______________________"
+                                        },
+                                        {
+                                            "element": "c. _______________________"
+                                        },
+                                        {
+                                            "element": "d. _______________________"
+                                        },
+                                        {
+                                            "element": "e. _______________________"
+                                        },
+                                        {
+                                            "element": "f. _______________________"
+                                        },
+                                        {
+                                            "element": "g. _______________________"
+                                        },
+                                        {
+                                            "element": "h. _______________________"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "element": "B. ___________________________",
+                            "elements": [
+                                {
+                                    "element": "1. _________________________"
+                                },
+                                {
+                                    "element": "2. _________________________"
+                                }
+                            ]
+                        },
+                        {
+                            "element": "C. ___________________________",
+                            "elements": [
+                                {
+                                    "element": "1. _________________________",
+                                    "elements": [
+                                        {
+                                            "element": "a. _______________________"
+                                        },
+                                        {
+                                            "element": "b. _______________________"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "element": "2. _________________________",
+                                    "elements": [
+                                        {
+                                            "element": "a. _______________________"
+                                        },
+                                        {
+                                            "element": "b. _______________________"
+                                        },
+                                        {
+                                            "element": "c. _______________________",
+                                            "elements": [
+                                                {
+                                                    "element": "(1) _____________________"
+                                                },
+                                                {
+                                                    "element": "(2) _____________________"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "element": "D. ___________________________",
+                            "elements": [
+                                {
+                                    "element": "1. _________________________"
+                                },
+                                {
+                                    "element": "2. _________________________"
+                                }
+                            ]
+                        },
+                        {
+                            "element": "E. ___________________________",
+                            "elements": [
+                                {
+                                    "element": "1. _________________________"
+                                },
+                                {
+                                    "element": "2. _________________________"
+                                },
+                                {
+                                    "element": "3. _________________________"
+                                },
+                                {
+                                    "element": "4. _________________________"
+                                }
+                            ]
+                        },
+                        {
+                            "element": "F. ___________________________",
+                            "elements": [
+                                {
+                                    "element": "1. _________________________"
+                                },
+                                {
+                                    "element": "2. _________________________"
+                                },
+                                {
+                                    "element": "3. _________________________"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "element": "III.  _________________________",
+                    "elements": [
+                        {
+                            "element": "A. _______________________"
+                        },
+                        {
+                            "element": "B. _______________________"
+                        },
+                        {
+                            "element": "C. _______________________"
+                        },
+                        {
+                            "element": "D. _______________________",
+                            "elements": [
+                                {
+                                    "element": "1. _____________________"
+                                },
+                                {
+                                    "element": "2. _____________________"
+                                },
+                                {
+                                    "element": "3. _____________________"
+                                },
+                                {
+                                    "element": "4. _____________________"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "element": "IV. __________________________",
+                    "elements": [
+                        {
+                            "element": "A. _______________________"
+                        },
+                        {
+                            "element": "B. __________________________"
+                        }
+                    ]
+                },
+                {
+                    "element": "V. __________________________",
+                    "elements": [
+                        {
+                            "element": "A. ______________________",
+                            "elements": [
+                                {
+                                    "element": "1. _____________________"
+                                },
+                                {
+                                    "element": "2. _____________________"
+                                },
+                                {
+                                    "element": "3. _____________________"
+                                }
+                            ]
+                        },
+                        {
+                            "element": "B. _______________________"
+                        },
+                        {
+                            "element": "C. _______________________"
+                        },
+                        {
+                            "element": "D. _______________________"
+                        },
+                        {
+                            "element": "E. _______________________",
+                            "elements": [
+                                {
+                                    "element": "1. _____________________"
+                                },
+                                {
+                                    "element": "2. _____________________"
+                                }
+                            ]
+                        },
+                        {
+                            "element": "F. _______________________"
+                        }
+                    ]
+                },
+                {
+                    "element": "VI. __________________________",
+                    "elements": [
+                        {
+                            "element": "A. _______________________"
+                        },
+                        {
+                            "element": "B. _______________________"
+                        },
+                        {
+                            "element": "C. _______________________",
+                            "elements": [
+                                {
+                                    "element": "1. _____________________"
+                                },
+                                {
+                                    "element": "2. _____________________"
+                                },
+                                {
+                                    "element": "3. _____________________"
+                                },
+                                {
+                                    "element": "4. _____________________"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "element": "VII. _____________________",
+                    "elements": [
+                        {
+                            "element": "A. _____________________",
+                            "elements": [
+                                {
+                                    "element": "1. ____________________"
+                                },
+                                {
+                                    "element": "2. ___________________"
+                                },
+                                {
+                                    "element": "3. ___________________"
+                                }
+                            ]
+                        },
+                        {
+                            "element": "B. _____________________",
+                            "elements": [
+                                {
+                                    "element": "1. ___________________"
+                                },
+                                {
+                                    "element": "2. ___________________"
+                                }
+                            ]
+                        },
+                        {
+                            "element": "C. _____________________",
+                            "elements": [
+                                {
+                                    "element": "1. ___________________"
+                                },
+                                {
+                                    "element": "2. ___________________"
+                                }
+                            ]
+                        },
+                        {
+                            "element": "D. _____________________",
+                            "elements": [
+                                {
+                                    "element": "1. ___________________"
+                                },
+                                {
+                                    "element": "2. ____________________"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "element": "VIII. _____________________",
+                    "elements": [
+                        {
+                            "element": "A. _____________________"
+                        },
+                        {
+                            "element": "B. _____________________"
+                        },
+                        {
+                            "element": "C. _____________________"
+                        },
+                        {
+                            "element": "D. _____________________"
+                        },
+                        {
+                            "element": "E. _____________________"
+                        }
+                    ]
+                },
+                {
+                    "element": "IX. ________________________",
+                    "elements": [
+                        {
+                            "element": "A. _____________________"
+                        },
+                        {
+                            "element": "B. _____________________"
+                        },
+                        {
+                            "element": "C. _____________________"
+                        },
+                        {
+                            "element": "D. _____________________"
+                        }
+                    ]
+                },
+                {
+                    "element": "X. ________________________",
+                    "elements": [
+                        {
+                            "element": "A. _____________________"
+                        },
+                        {
+                            "element": "B. _____________________"
+                        },
+                        {
+                            "element": "C. _____________________"
+                        },
+                        {
+                            "element": "D. _____________________"
+                        },
+                        {
+                            "element": "E. _____________________"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

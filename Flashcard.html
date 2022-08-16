@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Flashcard</title>
+    <style>
+        body {
+            background-color: black;
+            color: cadetblue;
+        }
+        div {
+            float:none;
+        }
+        
+    </style>
+
+</head>
+
+<body>
+    <script src="Flashcard.js" type="text/javascript"></script>
+    <div id="maindiv"><button type="button" onclick="renderSubjects()">Let's Go</button>
+    </div>
+    <div id="termdiv" hidden=true>
+        <h2 id="term"></h2>
+        <div>
+            <button type="button" id="defBtn" onclick="showDef()">Definition</button><br>
+            <span id="definition" hidden="true"></span>
+        </div>
+        <div>
+            <button type="button" id="keyBtn" onclick="showKey()">Keywords</button>
+            <span id="keywords" hidden=true></span>
+        </div>
+    </div>
+    <div>
+        <button type="button" id="prevBtn" onclick="prevBtnClick()" class="nav">Prev</button>
+        <button type="button" id="nextBtn" onclick="nextBtnClick()" class="nav">Next</button>
+    </div>
+</body>
+
+</html>

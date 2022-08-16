@@ -1,0 +1,18 @@
+
+        body {
+            background-color: black;
+            color: cadetblue;
+            font-size: 25px;
+        }
+        div {
+            float:none;
+        }
+		button {
+			font-size-adjust: 1;
+			width:-moz-available;
+		}
+
+		button.nav {
+			width:48%;
+		}
+
