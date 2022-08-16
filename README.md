@@ -1,2 +1,2 @@
-# Law
+# law
 Law Studies
