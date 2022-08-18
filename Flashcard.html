@@ -2,40 +2,99 @@
 <html>
 
 <head>
-    <meta charset="utf-8">
-    <title>Flashcard</title>
-    <style>
-        body {
-            background-color: black;
-            color: cadetblue;
-        }
-        div {
-            float:none;
-        }
-        
-    </style>
+  <title>Flashcards</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <style>
+    body,
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+      font-family: "Montserrat", sans-serif
+    }
 
+    .w3-row-padding img {
+      margin-bottom: 12px
+    }
+
+    .bgimg {
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      min-height: 100%;
+    }
+  </style>
 </head>
 
 <body>
-    <script src="Flashcard.js" type="text/javascript"></script>
-    <div id="maindiv"><button type="button" onclick="renderSubjects()">Let's Go</button>
+
+  <!-- Sidebar with image -->
+  <nav class="w3-sidebar w3-hide-medium w3-hide-small" style="width:40%">
+    <div class="bgimg"></div>
+  </nav>
+
+  <!-- Hidden Sidebar (reveals when clicked on menu icon)-->
+  <nav class="w3-sidebar w3-black w3-animate-right w3-xxlarge" style="display:none;padding-top:150px;right:0;z-index:2"
+    id="mySidebar">
+    <a href="javascript:void(0)" onclick="closeNav()" class="w3-button w3-black w3-xxxlarge w3-display-topright"
+      style="padding:0 12px;">
+      <i class="fa fa-remove"></i>
+    </a>
+    <div class="w3-bar-block w3-center" id="sidenav">
     </div>
-    <div id="termdiv" hidden=true>
-        <h2 id="term"></h2>
-        <div>
-            <button type="button" id="defBtn" onclick="showDef()">Definition</button><br>
-            <span id="definition" hidden="true"></span>
-        </div>
-        <div>
-            <button type="button" id="keyBtn" onclick="showKey()">Keywords</button>
-            <span id="keywords" hidden=true></span>
-        </div>
-    </div>
-    <div>
-        <button type="button" id="prevBtn" onclick="prevBtnClick()" class="nav">Prev</button>
-        <button type="button" id="nextBtn" onclick="nextBtnClick()" class="nav">Next</button>
-    </div>
+  </nav>
+
+  <!-- Page Content -->
+  <div class="w3-main w3-padding-large" style="margin-left:40%">
+
+    <!-- Menu icon to open sidebar -->
+    <span class="w3-button w3-top w3-white w3-xxlarge w3-text-grey w3-hover-text-black" style="width:auto;right:0;"
+      onclick="openNav()"><i class="fa fa-bars"></i></span>
+
+
+    <div id="subjectdiv" class="w3-padding-32 w3-content w3-text-grey"></div>
+    <!-- div id="subjectdiv" class="w3-padding-32 w3-content w3-text-grey" style="margin-bottom:64px">
+      <h2 id="subject">NWCULAW</h2>
+      <hr class="w3-opacity">
+      <h3 id="term"></h3>
+      <h4 id="defLabel" onclick="showDef()" hidden>Definition</h4>
+      <div class="w3-opacity" id="def"></div>
+      <h4 id="keysLabel" onclick="showKeys()" hidden>Keywords</h4>
+      <div class="w3-opacity" id="keys"></div>
+      <div class="w3-section w3-light-grey w3-center w3-opacity w3-xlarge">
+        <button class="w3-button w3-round-xxlarge w3-small w3-dark-grey" type="button"
+          onclick="prevBtnClick()">Prev</button>
+        <button class="w3-button w3-round-xxlarge w3-small w3-dark-grey" type="button"
+          onclick="nextBtnClick()">Next</button>
+      </div>
+
+    </div  -->
+
+    <!-- Footer. This section contains an ad for W3Schools Spaces. You can leave it to support us. -->
+    <footer class="w3-container w3-padding-64 w3-light-grey w3-center w3-opacity w3-xlarge" style="margin:-24px">
+
+      <a href="https://www.facebook.com/hadid.boneta" target="_blank"
+        class="fa fa-facebook-official w3-hover-opacity"></a>
+      <i class="fa fa-instagram w3-hover-opacity"></i>
+      <i class="fa fa-snapchat w3-hover-opacity"></i>
+      <i class="fa fa-pinterest-p w3-hover-opacity"></i>
+      <i class="fa fa-twitter w3-hover-opacity"></i>
+      <i class="fa fa-linkedin w3-hover-opacity"></i>
+      <p class="w3-small">This website was made with W3schools Spaces. Make your own free website today!</p>
+      <a class="w3-button w3-round-xxlarge w3-small w3-dark-grey" href="https://www.w3schools.com/spaces"
+        target="_blank">Start now</a>
+      <!-- End footer -->
+    </footer>
+    <!-- END PAGE CONTENT -->
+  </div>
+  <script src="Flashcard.js"></script>
+
 </body>
 
 </html>
